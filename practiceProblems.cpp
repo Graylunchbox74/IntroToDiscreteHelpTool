@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio.h>
 using namespace std;
 /*Practice problems                             */
 /*Introduction to Discrete Mathematics Help Tool*/
